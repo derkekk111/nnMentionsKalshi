@@ -1,4 +1,3 @@
-# THIS ONE HAS ACCURACY WAY HIGHER, WE DID ITTTT
 # see previous SoftMax File, this is the better version now
 # improvements, more data, normalized data using sci-kit learn
 # more layers, hidden ones of size 32 and 16: 9 -> 32 -> 16 -> 1
