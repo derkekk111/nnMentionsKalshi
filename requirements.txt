@@ -1,0 +1,28 @@
+# Kalshi Mention Market Neural Network - Dependencies
+
+# Core ML/DL
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API and data
+requests>=2.31.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+
+# Progress and utilities
+tqdm>=4.65.0
+
+# Feature importance (optional)
+shap>=0.42.0
+
+# Cryptography for Kalshi API auth
+cryptography>=41.0.0
+
+# DefeatBeta API (assuming it's a local package or available via pip)
+# defeatbeta-api>=0.1.0

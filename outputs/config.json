@@ -1,0 +1,65 @@
+{
+  "data": {
+    "data_dir": "nn_directory",
+    "cache_dir": "cache",
+    "tickers": [
+      "AAPL"
+    ],
+    "use_llm_probs": false,
+    "use_news_features": true,
+    "lookback_quarters": 8,
+    "news_lookback_days": 21,
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "test_ratio": 0.15
+  },
+  "model": {
+    "hidden_dims": [
+      128,
+      64,
+      32
+    ],
+    "dropout_rate": 0.3,
+    "use_batch_norm": true,
+    "use_residual": false,
+    "activation": "relu",
+    "include_position_head": true,
+    "position_head_hidden": 16
+  },
+  "training": {
+    "epochs": 100,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "optimizer": "adamw",
+    "scheduler": "plateau",
+    "scheduler_patience": 10,
+    "scheduler_factor": 0.5,
+    "early_stopping": true,
+    "early_stopping_patience": 20,
+    "early_stopping_min_delta": 0.0001,
+    "prob_weight": 1.0,
+    "position_weight": 0.5,
+    "calibration_weight": 0.1,
+    "use_focal_loss": false,
+    "save_best": true,
+    "save_path": "checkpoints",
+    "log_interval": 10
+  },
+  "backtest": {
+    "initial_bankroll": 10000.0,
+    "max_risk_per_trade": 0.05,
+    "max_position_size": 100.0,
+    "edge_threshold": 0.05,
+    "confidence_threshold": 0.0,
+    "use_kelly_criterion": false,
+    "kelly_fraction": 0.25,
+    "use_model_position": true,
+    "fee_per_trade": 0.0,
+    "slippage": 0.01
+  },
+  "seed": 42,
+  "device": "auto",
+  "verbose": true,
+  "output_dir": "outputs"
+}

@@ -1,0 +1,105 @@
+date,year_quarter,symbol,keyword,mentioned,count,variants_found
+2023-11-02,2023-Q4,AAPL,Shutdown / Shut Down,True,1,{'Shutdown': 1}
+2023-11-02,2023-Q4,AAPL,Streaming,False,0,{}
+2023-11-02,2023-Q4,AAPL,Widget,False,0,{}
+2023-11-02,2023-Q4,AAPL,Wearable,True,5,{'Wearable': 5}
+2023-11-02,2023-Q4,AAPL,The Studio,False,0,{}
+2023-11-02,2023-Q4,AAPL,Siri,False,0,{}
+2023-11-02,2023-Q4,AAPL,Modem,False,0,{}
+2023-11-02,2023-Q4,AAPL,Manufacturing,True,3,{'Manufacturing': 3}
+2023-11-02,2023-Q4,AAPL,M3,True,7,{'M3': 7}
+2023-11-02,2023-Q4,AAPL,Formula 1 / F1,False,0,{}
+2023-11-02,2023-Q4,AAPL,China,True,19,{'China': 19}
+2023-11-02,2023-Q4,AAPL,Apple Intelligence,False,0,{}
+2023-11-02,2023-Q4,AAPL,Apple Pay,False,0,{}
+2024-02-01,2024-Q1,AAPL,Shutdown / Shut Down,True,3,{'Shutdown': 3}
+2024-02-01,2024-Q1,AAPL,Streaming,False,0,{}
+2024-02-01,2024-Q1,AAPL,Widget,False,0,{}
+2024-02-01,2024-Q1,AAPL,Wearable,True,4,{'Wearable': 4}
+2024-02-01,2024-Q1,AAPL,The Studio,False,0,{}
+2024-02-01,2024-Q1,AAPL,Siri,False,0,{}
+2024-02-01,2024-Q1,AAPL,Modem,False,0,{}
+2024-02-01,2024-Q1,AAPL,Manufacturing,False,0,{}
+2024-02-01,2024-Q1,AAPL,M3,True,7,{'M3': 7}
+2024-02-01,2024-Q1,AAPL,Formula 1 / F1,False,0,{}
+2024-02-01,2024-Q1,AAPL,China,True,14,{'China': 14}
+2024-02-01,2024-Q1,AAPL,Apple Intelligence,False,0,{}
+2024-02-01,2024-Q1,AAPL,Apple Pay,False,0,{}
+2024-05-02,2024-Q2,AAPL,Shutdown / Shut Down,False,0,{}
+2024-05-02,2024-Q2,AAPL,Streaming,False,0,{}
+2024-05-02,2024-Q2,AAPL,Widget,False,0,{}
+2024-05-02,2024-Q2,AAPL,Wearable,True,2,{'Wearable': 2}
+2024-05-02,2024-Q2,AAPL,The Studio,False,0,{}
+2024-05-02,2024-Q2,AAPL,Siri,False,0,{}
+2024-05-02,2024-Q2,AAPL,Modem,False,0,{}
+2024-05-02,2024-Q2,AAPL,Manufacturing,True,3,{'Manufacturing': 3}
+2024-05-02,2024-Q2,AAPL,M3,True,3,{'M3': 3}
+2024-05-02,2024-Q2,AAPL,Formula 1 / F1,False,0,{}
+2024-05-02,2024-Q2,AAPL,China,True,22,{'China': 22}
+2024-05-02,2024-Q2,AAPL,Apple Intelligence,False,0,{}
+2024-05-02,2024-Q2,AAPL,Apple Pay,True,1,{'Apple Pay': 1}
+2024-08-01,2024-Q3,AAPL,Shutdown / Shut Down,False,0,{}
+2024-08-01,2024-Q3,AAPL,Streaming,False,0,{}
+2024-08-01,2024-Q3,AAPL,Widget,False,0,{}
+2024-08-01,2024-Q3,AAPL,Wearable,True,5,{'Wearable': 5}
+2024-08-01,2024-Q3,AAPL,The Studio,False,0,{}
+2024-08-01,2024-Q3,AAPL,Siri,True,1,{'Siri': 1}
+2024-08-01,2024-Q3,AAPL,Modem,False,0,{}
+2024-08-01,2024-Q3,AAPL,Manufacturing,False,0,{}
+2024-08-01,2024-Q3,AAPL,M3,True,2,{'M3': 2}
+2024-08-01,2024-Q3,AAPL,Formula 1 / F1,False,0,{}
+2024-08-01,2024-Q3,AAPL,China,True,15,{'China': 15}
+2024-08-01,2024-Q3,AAPL,Apple Intelligence,True,34,{'Apple Intelligence': 34}
+2024-08-01,2024-Q3,AAPL,Apple Pay,True,2,{'Apple Pay': 2}
+2024-10-31,2024-Q4,AAPL,Shutdown / Shut Down,False,0,{}
+2024-10-31,2024-Q4,AAPL,Streaming,False,0,{}
+2024-10-31,2024-Q4,AAPL,Widget,False,0,{}
+2024-10-31,2024-Q4,AAPL,Wearable,True,2,{'Wearable': 2}
+2024-10-31,2024-Q4,AAPL,The Studio,False,0,{}
+2024-10-31,2024-Q4,AAPL,Siri,True,2,{'Siri': 2}
+2024-10-31,2024-Q4,AAPL,Modem,False,0,{}
+2024-10-31,2024-Q4,AAPL,Manufacturing,False,0,{}
+2024-10-31,2024-Q4,AAPL,M3,False,0,{}
+2024-10-31,2024-Q4,AAPL,Formula 1 / F1,False,0,{}
+2024-10-31,2024-Q4,AAPL,China,True,7,{'China': 7}
+2024-10-31,2024-Q4,AAPL,Apple Intelligence,True,30,{'Apple Intelligence': 30}
+2024-10-31,2024-Q4,AAPL,Apple Pay,True,4,{'Apple Pay': 4}
+2025-01-30,2025-Q1,AAPL,Shutdown / Shut Down,False,0,{}
+2025-01-30,2025-Q1,AAPL,Streaming,False,0,{}
+2025-01-30,2025-Q1,AAPL,Widget,False,0,{}
+2025-01-30,2025-Q1,AAPL,Wearable,True,2,{'Wearable': 2}
+2025-01-30,2025-Q1,AAPL,The Studio,True,1,{'The Studio': 1}
+2025-01-30,2025-Q1,AAPL,Siri,True,3,{'Siri': 3}
+2025-01-30,2025-Q1,AAPL,Modem,False,0,{}
+2025-01-30,2025-Q1,AAPL,Manufacturing,True,2,{'Manufacturing': 2}
+2025-01-30,2025-Q1,AAPL,M3,False,0,{}
+2025-01-30,2025-Q1,AAPL,Formula 1 / F1,True,1,{'Formula 1': 1}
+2025-01-30,2025-Q1,AAPL,China,True,12,{'China': 12}
+2025-01-30,2025-Q1,AAPL,Apple Intelligence,True,27,{'Apple Intelligence': 27}
+2025-01-30,2025-Q1,AAPL,Apple Pay,False,0,{}
+2025-05-01,2025-Q2,AAPL,Shutdown / Shut Down,False,0,{}
+2025-05-01,2025-Q2,AAPL,Streaming,False,0,{}
+2025-05-01,2025-Q2,AAPL,Widget,False,0,{}
+2025-05-01,2025-Q2,AAPL,Wearable,True,2,{'Wearable': 2}
+2025-05-01,2025-Q2,AAPL,The Studio,True,1,{'The Studio': 1}
+2025-05-01,2025-Q2,AAPL,Siri,True,6,{'Siri': 6}
+2025-05-01,2025-Q2,AAPL,Modem,True,4,{'Modem': 4}
+2025-05-01,2025-Q2,AAPL,Manufacturing,True,6,{'Manufacturing': 6}
+2025-05-01,2025-Q2,AAPL,M3,True,3,{'M3': 3}
+2025-05-01,2025-Q2,AAPL,Formula 1 / F1,True,2,"{'Formula 1': 1, 'F1': 1}"
+2025-05-01,2025-Q2,AAPL,China,True,10,{'China': 10}
+2025-05-01,2025-Q2,AAPL,Apple Intelligence,True,9,{'Apple Intelligence': 9}
+2025-05-01,2025-Q2,AAPL,Apple Pay,True,3,{'Apple Pay': 3}
+2025-07-31,2025-Q3,AAPL,Shutdown / Shut Down,False,0,{}
+2025-07-31,2025-Q3,AAPL,Streaming,True,1,{'Streaming': 1}
+2025-07-31,2025-Q3,AAPL,Widget,True,3,{'Widget': 3}
+2025-07-31,2025-Q3,AAPL,Wearable,True,2,{'Wearable': 2}
+2025-07-31,2025-Q3,AAPL,The Studio,True,1,{'The Studio': 1}
+2025-07-31,2025-Q3,AAPL,Siri,True,4,{'Siri': 4}
+2025-07-31,2025-Q3,AAPL,Modem,False,0,{}
+2025-07-31,2025-Q3,AAPL,Manufacturing,True,3,{'Manufacturing': 3}
+2025-07-31,2025-Q3,AAPL,M3,False,0,{}
+2025-07-31,2025-Q3,AAPL,Formula 1 / F1,True,1,{'F1': 1}
+2025-07-31,2025-Q3,AAPL,China,True,15,{'China': 15}
+2025-07-31,2025-Q3,AAPL,Apple Intelligence,True,7,{'Apple Intelligence': 7}
+2025-07-31,2025-Q3,AAPL,Apple Pay,False,0,{}

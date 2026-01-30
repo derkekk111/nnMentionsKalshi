@@ -6,7 +6,7 @@ from sklearn import datasets
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
-from defeat_data_api import Ticker
+from defeatbeta_api.data.ticker import Ticker
 import pandas as pd
 from kalshi_mentions_prob import analyze_keyword_mentions
 
